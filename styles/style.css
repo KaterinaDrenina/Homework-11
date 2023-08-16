@@ -1,4 +1,16 @@
 @import url(./reset.css);
 @import url(/fonts/Gilroy/stylesheet.css);
+@import url(./header.css);
+@import url(./main.css);
+@import url(./footer.css);
+
+body {
+    font-family: 'Gilroy', sans-serif;
+}
+
+.wrapper {
+    width: 1320px;
+    margin: 0 auto;
+}
 
 
