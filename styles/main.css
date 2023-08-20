@@ -122,8 +122,7 @@
 
 .block-weight-btn {
     font-family: 'Gilroy', sans-serif;
-    width: 55px;
-    height: 21px;
+    height: 29px;
     font-size: 18px;
     font-weight: 500;
     line-height: 21px;
@@ -133,7 +132,7 @@
     text-decoration: none;
 }
 
-.block-weight button:first-child {
+.block-weight-btn:focus {
     width: 68px;
     height: 29px;
     border: 1px solid #3ECF5E;

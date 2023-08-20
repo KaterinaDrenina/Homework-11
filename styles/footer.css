@@ -2,6 +2,8 @@
     padding-top: 100px;
     padding-bottom: 130px;
     background-color: #333333;
+    flex-grow: 1;
+    flex-basis: 0;
 }
 
 .footer-content-info {
@@ -55,3 +57,4 @@
 .footer-phone-img {
     margin-right: 10px;
 }
+
